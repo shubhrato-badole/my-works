@@ -1,0 +1,2 @@
+There are two options for runnning the program: with Node.JS or in Docker.
+
